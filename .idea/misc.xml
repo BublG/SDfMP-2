@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.168" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_baseline_history_24.xml" value="0.104" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.168" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.168" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_launcher_background.xml" value="0.168" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.168" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/pink_out_line.xml" value="0.1" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/drawable/toggle_widget_background.xml" value="0.1" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/activity_about.xml" value="0.23867753623188406" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/activity_results.xml" value="0.264" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/fish_list.xml" value="0.4" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/fragment_dashboard.xml" value="0.2421875" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/fragment_notifications.xml" value="0.2421875" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/fragment_profile.xml" value="0.176" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2421875" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/menu/top_menu.xml" value="0.2421875" />
+        <entry key="..\:/studies/SDfMP/Lab2/Productlist/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.184" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
